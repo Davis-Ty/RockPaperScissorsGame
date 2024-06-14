@@ -12,7 +12,7 @@ The game logic is encapsulated in the GameDo class, adhering to good object-orie
 The web application is set up using ASP.NET Core's minimal API, focusing on simplicity and efficiency:
 
 - Routing: Routes are defined directly in Program.cs using app.MapGet and app.MapPost, which makes the application easy to understand and maintain for small-scale applications.
-- Separation of Concerns: The game logic (GameDo class) is separate from the web presentation (Program.cs), promoting modularity and reusability of the game logic in other contexts.
+- Separation of Concerns: The game logic Game.cs (GameDo class) is separate from the web presentation (Program.cs), promoting modularity and reusability of the game logic in other contexts.
 - Error Handling: Development and production error handling are differentiated using if (app.Environment.IsDevelopment()) block, providing a smooth user experience and effective debugging.
 # How to Run
 - Clone the repository:
