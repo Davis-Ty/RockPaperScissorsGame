@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kazh+LlXKLpVd56HnAg1es/IDw/9Ir6gjhuPUafxH6TkzShN0ColRx91ccLZlAQPpuftTelbXIwqUvGTk/zKSw==",
+  "success": true,
+  "projectFilePath": "/Users/loveone/RockPaperScissorsGame/RockPaperScissorsGame/RockPaperScissorsGame.csproj",
+  "expectedPackageFiles": [
+    "/Users/loveone/.nuget/packages/htmlagilitypack/1.11.33/htmlagilitypack.1.11.33.nupkg.sha512"
+  ],
+  "logs": []
+}
