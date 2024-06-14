@@ -21,11 +21,8 @@ The web application is set up using ASP.NET Core's minimal API, focusing on simp
 # Copy code
 - git clone https://github.com/yourusername/RockPaperScissorsWebGame.git
 - cd RockPaperScissorsWebGame
-Run the application:
-
-  
-# Copy code
 - dotnet run
+  
 Open your browser and navigate to https://localhost:5001. You will see the game interface where you can play Rock, Paper, Scissors.
 
 # Technologies Used
